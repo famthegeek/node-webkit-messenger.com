@@ -1,0 +1,20 @@
+{
+  "main": "index.html",
+  "name": "Messenger",
+  "version": "0.1.0",
+  "nodejs": false,
+  "window": {
+    "title": "Messenger",
+    "icon": "link.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "position": "center",
+    "min_width": 800,
+    "min_height": 500
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
